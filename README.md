@@ -24,6 +24,6 @@ If you're interested in working together or have any questions, feel free to rea
 
 - 📧 Email: [halvorson_exp@simplelogin.com](mailto:halvorson_exp@simplelogin.com)
 - 💼 LinkedIn: [linkedin.com/in/kamil-m](https://www.linkedin.com/in/kamil-m)
-- 🌐 Website: [kamildev.com](https://github.com/kamilo432)
+- 🌐 Website: [In the future](https://github.com/kamilo432)
 
 Thanks for stopping by!
