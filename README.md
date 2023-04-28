@@ -15,7 +15,7 @@ I'm a .NET programmer from Poland with a passion for web development. I speciali
 Here are some of my recent projects that showcase my skills and expertise:
 
 - [InvoiceManager](https://github.com/kamilo432/InvoiceManager) - My invoice manager built using ASP.NET Blazor and DevExpress.
-- [FireDepartmentManager](https://github.com/kamilo432/FireDepartmentManager) - My invoice manager built using ASP.NET Blazor and DevExpress.
+- [FireDepartmentManager](https://github.com/kamilo432/FireDepartmentManager) - Manage your firefighters, vehicles and actions.
 - [PizzaData](https://github.com/kamilo432/PizzaData) - A simple pizza web application with dough calculator, flours and pizza recipes built using ASP.NET Core.
 - [PasswordGenerator](https://github.com/kamilo432/Password-Generator) - A password generator using Pythond and Tkinter.
 
